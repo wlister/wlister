@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with ... rising edge of the clock
 - 💬 Ask me about ... rising edge of the clock
 - 📫 How to reach me: ... rising edge of the clock
-- 😄 Pronouns: ... anzats 
+- 😄 Pronouns: ... ansatz 
 - ⚡ Fun fact: ... rising edge of the clock
