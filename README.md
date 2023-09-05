@@ -1,9 +1,16 @@
 # Hi there
-- 🔭 I’m currently working on ...   rising edge of the clock
-- 🌱 I’m currently learning ...   rising edge of the clock
-- 👯 I’m looking to collaborate on ...  rising edge of the clock
-- 🤔 I’m looking for help with ...  rising edge of the clock
-- 💬 Ask me about ...   rising edge of the clock
-- 📫 How to reach me: ...   rising edge of the clock
-- 😄 Pronouns: ...  ansatz ansatz ansatz ansatz ansatz 
-- ⚡ Fun fact: ...   rising edge of the clock
+
+module top_module (
+    input clk,
+    input reset,
+    output [9:0] q);
+	
+    always_ff@(posedge clk) begin
+        if(reset || q == 999) begin
+            q <= 10'b0000000000;
+        end
+        else begin
+            q <= q + 10'b0000000001;
+        end
+    end
+endmodule
