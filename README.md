@@ -1,5 +1,6 @@
 # Hi there
 
+```verilog
 module top_module (
     input clk,
     input reset,
@@ -14,3 +15,4 @@ module top_module (
         end
     end
 endmodule
+```
