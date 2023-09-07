@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 
 ```verilog
 module top_module (
