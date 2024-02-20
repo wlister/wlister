@@ -1,6 +1,8 @@
 # Hi there!
 
-![](https://64.media.tumblr.com/e1b3e9193163209d82b4bdbdc7dec2c2/tumblr_oloo8iEntd1uce9bao2_r1_540.gif)
+<p align="center">
+  <img src="https://64.media.tumblr.com/e1b3e9193163209d82b4bdbdc7dec2c2/tumblr_oloo8iEntd1uce9bao2_r1_540.gif" alt="animated" />
+</p>
 
 ```verilog
 module top_module (
