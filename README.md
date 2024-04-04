@@ -1,7 +1,7 @@
 # Hi there!
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/e1b3e9193163209d82b4bdbdc7dec2c2/tumblr_oloo8iEntd1uce9bao2_r1_540.gif" alt="animated" />
+  <img src="https://24.media.tumblr.com/78b7de068a496b13555094a4cf30ceb5/tumblr_mta8to65Nw1rlcjydo1_500.gif" alt="animated" />
 </p>
 
 ```verilog
