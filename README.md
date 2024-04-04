@@ -30,7 +30,7 @@ endmodule
 </div>
 <div align="center">
 	<code><img width="100" src="https://www.sarsen.net/uploads/files/images/Intel%20FPGA%20Logo.png" alt="FPGA" title="FPGA"/></code>
-	<code><img width="50" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/643/modelsim.jpg" alt=ModelSim" title="ModelSim"/></code>
+	<code><img width="50" src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/643/modelsim.jpg" alt="ModelSim" title="ModelSim"/></code>
 	<code><img width="50" src="https://media.imgcdn.org/repo/2023/03/intel-quartus-prime-pro-edition/intel-quartus-prime-pro-edition-logo.png" alt="Quartus" title="Quartus"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
