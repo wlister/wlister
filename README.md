@@ -1,7 +1,7 @@
 # Hi there!
 
 <p align="center">
-  <img src="https://24.media.tumblr.com/78b7de068a496b13555094a4cf30ceb5/tumblr_mta8to65Nw1rlcjydo1_500.gif" alt="animated" />
+  <img width="1920" src="https://24.media.tumblr.com/78b7de068a496b13555094a4cf30ceb5/tumblr_mta8to65Nw1rlcjydo1_500.gif" alt="animated" />
 </p>
 
 ```verilog
@@ -21,7 +21,7 @@ module top_module (
 endmodule
 ```
 
-## Languages and tools I am famiiar with
+# Languages and tools I am famiiar with
 <div align="center">
 	<code><img width="100" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="SystemVerilog" title="SystemVerilog"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
