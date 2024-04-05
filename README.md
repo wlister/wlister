@@ -32,7 +32,7 @@ endmodule
 </div>
 
 <div align="center">
-	<code><a href=""><img width="100" src="https://www.sarsen.net/uploads/files/images/Intel%20FPGA%20Logo.png" alt="FPGA" title="FPGA"/></a></code>
+	<code><a href="https://www.intel.com/content/www/us/en/partner/showcase/offering/a5b3b0000004cbaAAA/de1soc-board.html"><img width="100" src="https://www.sarsen.net/uploads/files/images/Intel%20FPGA%20Logo.png" alt="FPGA" title="FPGA"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/ModelSim"><img width="50" src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="ModelSim" title="ModelSim"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/Intel_Quartus_Prime"><img width="50" src="https://media.imgcdn.org/repo/2023/03/intel-quartus-prime-pro-edition/intel-quartus-prime-pro-edition-logo.png" alt="Quartus" title="Quartus"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></a></code>
