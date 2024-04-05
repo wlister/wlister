@@ -23,7 +23,7 @@ endmodule
 
 # Languages and tools I am familiar with
 <div align="center">
-	<code><a href="https://en.wikipedia.org/wiki/SystemVerilog" target=blank><img width="100" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="SystemVerilog" title="SystemVerilog"/></a></code>
+	<code><a href="https://en.wikipedia.org/wiki/SystemVerilog"><img width="100" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="SystemVerilog" title="SystemVerilog"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></a></code>
 	<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></a></code>
