@@ -12,10 +12,10 @@ module top_module (
 	
     always_ff@(posedge clk) begin
         if(reset || q == 999) begin
-            q <= 10'd0;
+            q <= 0;
         end
         else begin
-            q <= q + 10'd1;
+            q <= q + 1;
         end
     end
 endmodule
